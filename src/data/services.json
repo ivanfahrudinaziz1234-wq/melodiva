@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "wedding",
+    "name": "Paket Wedding",
+    "description": "Musik elegan untuk akad dan resepsi, dari lagu persembahan pengantin hingga sesi party bersama tamu.",
+    "lineup": "Full band: 2 vokal, keyboard, gitar, bass, drum",
+    "duration": "3 sesi (± 3 jam)",
+    "facilities": ["Sound system standar hingga 500 tamu", "Request lagu hingga 5 lagu", "Lagu persembahan pengantin", "Kostum menyesuaikan tema"],
+    "priceMode": "starting",
+    "price": 7500000,
+    "highlight": true
+  },
+  {
+    "slug": "event-corporate",
+    "name": "Event / Corporate",
+    "description": "Penampilan profesional untuk gala dinner, gathering, launching produk, dan acara kantor.",
+    "lineup": "Full band atau formasi menyesuaikan",
+    "duration": "2–3 sesi",
+    "facilities": ["Koordinasi dengan EO", "Set lagu menyesuaikan rundown", "Opsi sound system lengkap"],
+    "priceMode": "contact"
+  },
+  {
+    "slug": "birthday-party",
+    "name": "Birthday / Party",
+    "description": "Suasana meriah untuk ulang tahun, anniversary, dan pesta keluarga.",
+    "lineup": "Formasi 4–6 personel",
+    "duration": "2 sesi (± 2 jam)",
+    "facilities": ["Lagu ulang tahun spesial", "Request lagu bebas", "Interaksi dengan tamu"],
+    "priceMode": "starting",
+    "price": 4000000
+  },
+  {
+    "slug": "reguler-cafe",
+    "name": "Reguler / Cafe",
+    "description": "Live music rutin untuk kafe, restoran, dan hotel dengan formasi akustik yang hangat.",
+    "lineup": "Akustik: vokal, gitar, keyboard/cajon",
+    "duration": "2–3 jam per malam",
+    "facilities": ["Jadwal mingguan fleksibel", "Repertoar menyesuaikan pengunjung"],
+    "priceMode": "fixed",
+    "price": 1500000
+  }
+]

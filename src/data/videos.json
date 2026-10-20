@@ -1,0 +1,6 @@
+[
+  { "id": "v-01", "title": "Highlight Wedding — Medley Pop Romantis", "type": "youtube", "youtubeId": "dQw4w9WgXcQ", "thumbnail": "/images/gallery/wedding-1.webp", "category": "wedding", "featured": true },
+  { "id": "v-02", "title": "Gala Dinner — Jazz Standar", "type": "youtube", "youtubeId": "dQw4w9WgXcQ", "thumbnail": "/images/gallery/event-1.webp", "category": "event", "featured": false },
+  { "id": "v-03", "title": "Sesi Akustik di Kafe", "type": "youtube", "youtubeId": "dQw4w9WgXcQ", "thumbnail": "/images/gallery/cafe-1.webp", "category": "reguler", "featured": false },
+  { "id": "v-04", "title": "Party Ulang Tahun — Lagu Nostalgia", "type": "youtube", "youtubeId": "dQw4w9WgXcQ", "thumbnail": "/images/gallery/party-1.webp", "category": "party", "featured": false }
+]

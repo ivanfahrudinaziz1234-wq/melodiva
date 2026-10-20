@@ -1,0 +1,8 @@
+[
+  { "id": "wedding", "title": "Wedding", "description": "Akad, resepsi, hingga sesi party yang hangat.", "icon": "heart" },
+  { "id": "event", "title": "Event", "description": "Gala dinner, gathering, dan acara perusahaan.", "icon": "briefcase" },
+  { "id": "birthday", "title": "Birthday", "description": "Ulang tahun anak, remaja, hingga orang tua.", "icon": "cake" },
+  { "id": "party", "title": "Party", "description": "Pesta privat dengan lagu-lagu yang bikin bergoyang.", "icon": "party" },
+  { "id": "reguler", "title": "Reguler", "description": "Live music mingguan di kafe dan restoran.", "icon": "coffee" },
+  { "id": "jamming", "title": "Jamming", "description": "Sesi santai dan kolaborasi dengan musisi tamu.", "icon": "music" }
+]

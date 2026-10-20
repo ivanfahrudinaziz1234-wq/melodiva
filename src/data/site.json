@@ -1,0 +1,21 @@
+{
+  "bandName": "Melodiva Music",
+  "shortName": "Melodiva",
+  "tagline": "Band Wedding Jogja | Regular, Event, Birthday, Party",
+  "description": "Melodiva adalah band live asal Yogyakarta untuk wedding, event perusahaan, ulang tahun, party, dan tampil reguler di kafe. Kami membawakan musik yang hangat, rapi, dan menyesuaikan suasana acara Anda.",
+  "foundedYear": 2016,
+  "whatsappNumber": "6285875050845",
+  "whatsappDefaultMessage": "Halo Melodiva, saya ingin menanyakan untuk acara saya.",
+  "email": "hello@melodiva.example",
+  "address": "Yogyakarta, Daerah Istimewa Yogyakarta",
+  "city": "Yogyakarta",
+  "serviceAreas": ["Kota Yogyakarta", "Sleman", "Bantul", "Kulon Progo", "Gunungkidul", "Solo", "Magelang", "Klaten"],
+  "replyTime": "1x24 jam pada hari kerja",
+  "seo": {
+    "titleTemplate": "%s | Melodiva Music",
+    "defaultTitle": "Melodiva Music — Band Wedding Jogja & Band Event Yogyakarta",
+    "defaultDescription": "Band wedding Jogja dan band event Yogyakarta untuk wedding, corporate event, birthday, party, dan reguler kafe. Line-up lengkap, ratusan lagu lintas genre.",
+    "keywords": ["band wedding Jogja", "band event Yogyakarta", "band nikahan Jogja", "live music Yogyakarta", "band cafe Jogja", "band akustik Jogja", "Melodiva"],
+    "ogImage": "/images/hero/hero-poster.webp"
+  }
+}

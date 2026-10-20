@@ -1,0 +1,6 @@
+[
+  { "id": "years", "label": "Tahun berkarya", "value": 10, "suffix": "+" },
+  { "id": "events", "label": "Acara dimeriahkan", "value": 350, "suffix": "+" },
+  { "id": "songs", "label": "Lagu siap dibawakan", "value": 400, "suffix": "+" },
+  { "id": "members", "label": "Personel", "value": 6, "suffix": "" }
+]

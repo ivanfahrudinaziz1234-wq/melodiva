@@ -1,0 +1,20 @@
+[
+  {
+    "id": "instagram",
+    "label": "Instagram @melodiva__",
+    "url": "https://instagram.com/melodiva__",
+    "icon": "instagram",
+    "showInHeader": true,
+    "showInFooter": true,
+    "showInContact": true
+  },
+  {
+    "id": "whatsapp",
+    "label": "WhatsApp 0858-7505-0845",
+    "url": "https://wa.me/6285875050845",
+    "icon": "whatsapp",
+    "showInHeader": false,
+    "showInFooter": true,
+    "showInContact": true
+  }
+]

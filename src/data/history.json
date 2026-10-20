@@ -1,0 +1,27 @@
+{
+  "intro": [
+    "Melodiva lahir dari sesi jamming sederhana di sebuah studio kecil di Yogyakarta. Enam musisi dengan latar belakang berbeda menemukan satu hal yang sama: senang melihat orang tersenyum karena musik.",
+    "Dari panggung kafe, kami mulai dipercaya mengisi pernikahan, acara kantor, hingga pesta ulang tahun. Setiap acara kami anggap istimewa, karena setiap momen memang hanya terjadi sekali.",
+    "Hari ini Melodiva dikenal sebagai band wedding Jogja yang rapi, ramah, dan fleksibel. Kami siap menyesuaikan lagu, line-up, dan suasana sesuai keinginan Anda."
+  ],
+  "vision": "Menjadi band pilihan di Yogyakarta yang menghadirkan musik hangat dan berkesan untuk setiap momen penting.",
+  "mission": [
+    "Menyajikan penampilan live yang rapi, tepat waktu, dan profesional.",
+    "Menyesuaikan daftar lagu dengan karakter tamu dan suasana acara.",
+    "Berkomunikasi dengan ramah dan jelas sejak diskusi pertama hingga acara selesai."
+  ],
+  "musicStyle": "Kami bermain lintas genre: pop Indonesia, lagu barat, jazz ringan, dangdut, campursari, hingga slow rock. Aransemen dibuat elegan untuk resepsi dan bisa lebih meriah saat sesi party.",
+  "values": [
+    { "icon": "clock", "title": "Tepat waktu", "description": "Kami datang lebih awal untuk sound check agar acara berjalan tanpa jeda." },
+    { "icon": "music", "title": "Repertoar luas", "description": "Ratusan lagu lintas genre, dan kami terbuka untuk request lagu khusus." },
+    { "icon": "heart", "title": "Ramah dan fleksibel", "description": "Line-up, durasi, dan susunan lagu bisa disesuaikan dengan kebutuhan Anda." },
+    { "icon": "sparkles", "title": "Tampil rapi", "description": "Kostum menyesuaikan tema acara, penampilan sopan, dan komunikasi yang jelas." }
+  ],
+  "timeline": [
+    { "year": 2016, "title": "Awal mula", "description": "Berawal dari jamming rutin di studio kecil di Jogja. (Contoh, silakan ganti)" },
+    { "year": 2018, "title": "Reguler di kafe", "description": "Mulai tampil reguler setiap akhir pekan di beberapa kafe di Yogyakarta." },
+    { "year": 2019, "title": "Wedding pertama", "description": "Dipercaya mengisi resepsi pernikahan pertama, dan sejak itu wedding menjadi spesialisasi kami.", "image": "/images/gallery/wedding-1.webp" },
+    { "year": 2022, "title": "Formasi enam personel", "description": "Formasi lengkap dengan dua vokalis, keyboard, gitar, bass, dan drum." },
+    { "year": 2025, "title": "Ratusan panggung", "description": "Telah tampil di ratusan acara di Jogja dan sekitarnya.", "image": "/images/gallery/event-1.webp" }
+  ]
+}

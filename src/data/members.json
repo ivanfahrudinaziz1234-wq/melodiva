@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "ivan-fahrudin-aziz",
+    "name": "Ivan Fahrudin Aziz",
+    "role": "Keyboard",
+    "instrument": "keyboard",
+    "photo": "/images/members/ivan-fahrudin-aziz/photo.webp",
+    "heroPhoto": "/images/members/ivan-fahrudin-aziz/photo.webp",
+    "shortBio": "Penata harmoni yang menjaga setiap lagu terdengar hangat dan rapi.",
+    "bio": [
+      "Ivan mulai belajar piano sejak kecil dan jatuh cinta pada musik pop serta jazz. (Contoh bio, silakan ganti)",
+      "Di Melodiva, Ivan bertanggung jawab atas aransemen dan transisi antarlagu agar suasana acara mengalir mulus."
+    ],
+    "quote": "Musik terbaik adalah yang membuat tamu lupa melihat jam.",
+    "quickFacts": [
+      { "label": "Bergabung", "value": "2016" },
+      { "label": "Asal", "value": "Yogyakarta" },
+      { "label": "Genre favorit", "value": "Jazz, Pop" }
+    ],
+    "skills": ["Keyboard", "Piano", "Aransemen", "Backing vokal"],
+    "portfolio": [
+      { "year": 2019, "title": "Wedding pertama Melodiva", "description": "Menata aransemen resepsi dengan nuansa jazz ringan." },
+      { "year": 2023, "title": "Corporate gala", "description": "Mengisi sesi dinner dengan instrumental piano." }
+    ],
+    "gallery": [
+      { "src": "/images/gallery/stage-1.webp", "alt": "Tangan Ivan memainkan keyboard di atas panggung" },
+      { "src": "/images/gallery/wedding-1.webp", "alt": "Melodiva tampil di resepsi pernikahan" }
+    ],
+    "socials": [{ "platform": "instagram", "url": "https://instagram.com/melodiva__" }]
+  },
+  {
+    "slug": "husnan",
+    "name": "Husnan",
+    "role": "Drum",
+    "instrument": "drum",
+    "photo": "/images/members/husnan/photo.webp",
+    "heroPhoto": "/images/members/husnan/photo.webp",
+    "shortBio": "Penjaga tempo yang membuat suasana pesta tetap hidup.",
+    "bio": [
+      "Husnan sudah bermain drum di berbagai band sejak SMA. (Contoh bio, silakan ganti)",
+      "Ia dikenal dengan permainan yang dinamis namun tetap menyesuaikan volume agar nyaman di ruangan resepsi."
+    ],
+    "quote": "Ritme yang pas membuat semua orang ingin ikut bergoyang.",
+    "quickFacts": [
+      { "label": "Bergabung", "value": "2016" },
+      { "label": "Asal", "value": "Sleman" },
+      { "label": "Genre favorit", "value": "Rock, Funk" }
+    ],
+    "skills": ["Drum", "Perkusi", "Cajon"],
+    "portfolio": [
+      { "year": 2018, "title": "Reguler kafe", "description": "Tampil setiap akhir pekan dengan set akustik dan cajon." },
+      { "year": 2024, "title": "Festival kampus", "description": "Mengisi panggung utama festival musik kampus." }
+    ],
+    "gallery": [
+      { "src": "/images/gallery/party-1.webp", "alt": "Suasana pesta ulang tahun bersama Melodiva" },
+      { "src": "/images/gallery/event-1.webp", "alt": "Melodiva tampil di acara perusahaan" }
+    ],
+    "socials": [{ "platform": "instagram", "url": "https://instagram.com/melodiva__" }]
+  },
+  {
+    "slug": "riefky-agung-trisnandi",
+    "name": "Riefky Agung Trisnandi",
+    "role": "Gitar",
+    "instrument": "guitar",
+    "photo": "/images/members/riefky-agung-trisnandi/photo.webp",
+    "heroPhoto": "/images/members/riefky-agung-trisnandi/photo.webp",
+    "shortBio": "Melodi gitar yang manis untuk momen romantis maupun meriah.",
+    "bio": [
+      "Riefky menekuni gitar akustik dan elektrik dengan pengaruh pop dan blues. (Contoh bio, silakan ganti)",
+      "Ia sering mengisi intro dan solo yang menjadi ciri khas penampilan Melodiva."
+    ],
+    "quote": "Satu petikan gitar bisa mengubah suasana ruangan.",
+    "quickFacts": [
+      { "label": "Bergabung", "value": "2017" },
+      { "label": "Asal", "value": "Bantul" },
+      { "label": "Genre favorit", "value": "Blues, Pop" }
+    ],
+    "skills": ["Gitar elektrik", "Gitar akustik", "Backing vokal"],
+    "portfolio": [
+      { "year": 2020, "title": "Sesi akustik", "description": "Membawakan set akustik untuk acara intimate wedding." },
+      { "year": 2025, "title": "Konser amal", "description": "Tampil bersama komunitas musik Jogja." }
+    ],
+    "gallery": [
+      { "src": "/images/gallery/cafe-1.webp", "alt": "Penampilan akustik Melodiva di kafe" },
+      { "src": "/images/gallery/wedding-1.webp", "alt": "Melodiva tampil di resepsi pernikahan" }
+    ],
+    "socials": [{ "platform": "instagram", "url": "https://instagram.com/melodiva__" }]
+  },
+  {
+    "slug": "diana",
+    "name": "Diana",
+    "role": "Vokal Perempuan",
+    "instrument": "vocal",
+    "photo": "/images/members/diana/photo.webp",
+    "heroPhoto": "/images/members/diana/photo.webp",
+    "shortBio": "Suara lembut yang membawa haru di setiap momen spesial.",
+    "bio": [
+      "Diana memiliki warna vokal yang lembut dan luas, nyaman untuk lagu pop maupun jazz. (Contoh bio, silakan ganti)",
+      "Ia senang berinteraksi dengan tamu dan kerap diminta menyanyikan lagu persembahan untuk pengantin."
+    ],
+    "quote": "Saya bernyanyi seolah setiap tamu adalah keluarga sendiri.",
+    "quickFacts": [
+      { "label": "Bergabung", "value": "2019" },
+      { "label": "Asal", "value": "Yogyakarta" },
+      { "label": "Genre favorit", "value": "Pop, Jazz" }
+    ],
+    "skills": ["Vokal utama", "Harmoni", "MC ringan"],
+    "portfolio": [
+      { "year": 2021, "title": "Wedding garden party", "description": "Menyanyikan lagu persembahan saat prosesi masuk." },
+      { "year": 2024, "title": "Gala dinner hotel", "description": "Membawakan set jazz standar." }
+    ],
+    "gallery": [
+      { "src": "/images/gallery/wedding-1.webp", "alt": "Diana bernyanyi di resepsi pernikahan" },
+      { "src": "/images/gallery/event-1.webp", "alt": "Melodiva di gala dinner" }
+    ],
+    "socials": [{ "platform": "instagram", "url": "https://instagram.com/melodiva__" }]
+  },
+  {
+    "slug": "rohmat-subagyo",
+    "name": "Rohmat Subagyo",
+    "nickname": "Mamed",
+    "role": "Vokal Laki-laki",
+    "instrument": "vocal",
+    "photo": "/images/members/rohmat-subagyo/photo.webp",
+    "heroPhoto": "/images/members/rohmat-subagyo/photo.webp",
+    "shortBio": "Vokalis yang hangat dan jago menghidupkan suasana.",
+    "bio": [
+      "Mamed dikenal dengan vokal yang hangat dan kemampuan membawakan lagu lintas genre, dari pop hingga campursari. (Contoh bio, silakan ganti)",
+      "Di sesi party, Mamed adalah orang yang paling cepat mengajak tamu ikut bernyanyi."
+    ],
+    "quote": "Kalau tamu ikut bernyanyi, berarti kita berhasil.",
+    "quickFacts": [
+      { "label": "Bergabung", "value": "2018" },
+      { "label": "Asal", "value": "Klaten" },
+      { "label": "Genre favorit", "value": "Campursari, Pop" }
+    ],
+    "skills": ["Vokal utama", "Interaksi panggung", "Lagu Jawa"],
+    "portfolio": [
+      { "year": 2019, "title": "Pesta rakyat", "description": "Membawakan medley campursari di acara desa." },
+      { "year": 2023, "title": "Wedding outdoor", "description": "Memandu sesi party bersama tamu." }
+    ],
+    "gallery": [
+      { "src": "/images/gallery/party-1.webp", "alt": "Mamed mengajak tamu bernyanyi" },
+      { "src": "/images/gallery/cafe-1.webp", "alt": "Melodiva tampil di kafe" }
+    ],
+    "socials": [{ "platform": "instagram", "url": "https://instagram.com/melodiva__" }]
+  },
+  {
+    "slug": "andy-ridwan",
+    "name": "Andy Ridwan",
+    "role": "Bass",
+    "instrument": "bass",
+    "photo": "/images/members/andy-ridwan/photo.webp",
+    "heroPhoto": "/images/members/andy-ridwan/photo.webp",
+    "shortBio": "Fondasi groove yang membuat musik terasa utuh.",
+    "bio": [
+      "Andy memainkan bass dengan sentuhan funk dan reggae. (Contoh bio, silakan ganti)",
+      "Ia juga membantu urusan teknis panggung agar sound check berjalan cepat dan rapi."
+    ],
+    "quote": "Bass itu tidak selalu terdengar, tapi selalu terasa.",
+    "quickFacts": [
+      { "label": "Bergabung", "value": "2017" },
+      { "label": "Asal", "value": "Yogyakarta" },
+      { "label": "Genre favorit", "value": "Funk, Reggae" }
+    ],
+    "skills": ["Bass elektrik", "Teknis panggung"],
+    "portfolio": [
+      { "year": 2020, "title": "Event kantor", "description": "Membawakan set funk untuk gathering perusahaan." },
+      { "year": 2025, "title": "Reguler kafe", "description": "Tampil reguler dengan formasi trio." }
+    ],
+    "gallery": [
+      { "src": "/images/gallery/event-1.webp", "alt": "Melodiva di acara perusahaan" },
+      { "src": "/images/gallery/stage-1.webp", "alt": "Detail panggung Melodiva" }
+    ],
+    "socials": [{ "platform": "instagram", "url": "https://instagram.com/melodiva__" }]
+  }
+]

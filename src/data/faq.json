@@ -1,0 +1,8 @@
+[
+  { "id": "durasi", "question": "Berapa lama durasi Melodiva tampil?", "answer": "Umumnya 2–3 sesi dengan total sekitar 2–3 jam. Durasi bisa disesuaikan dengan rundown acara Anda." },
+  { "id": "sound", "question": "Apakah sudah termasuk sound system?", "answer": "Paket wedding sudah termasuk sound system standar. Untuk acara besar atau outdoor, kami bisa bantu menyiapkan sound system tambahan." },
+  { "id": "area", "question": "Area mana saja yang dilayani?", "answer": "Kami melayani Yogyakarta dan sekitarnya (Sleman, Bantul, Kulon Progo, Gunungkidul), serta Solo, Magelang, dan Klaten. Di luar area tersebut bisa didiskusikan." },
+  { "id": "pemesanan", "question": "Bagaimana cara memesan Melodiva?", "answer": "Hubungi kami via WhatsApp, diskusikan kebutuhan dan nego harga, lalu konfirmasi tanggal dengan DP. Tidak ada pemesanan online di website." },
+  { "id": "request", "question": "Bolehkah request lagu?", "answer": "Tentu. Kirim daftar lagu favorit Anda paling lambat dua minggu sebelum acara agar kami bisa berlatih." },
+  { "id": "dp", "question": "Berapa DP yang dibutuhkan?", "answer": "DP biasanya 30–50% untuk mengunci tanggal. Detailnya kami sampaikan saat diskusi via WhatsApp." }
+]

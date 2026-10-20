@@ -1,0 +1,10 @@
+[
+  { "id": "p-01", "venue": "Grand Ballroom Hotel Contoh", "city": "Yogyakarta", "date": "2026-08-15", "eventType": "wedding", "description": "Resepsi pernikahan dengan 800 tamu, set akustik saat makan malam dan party di akhir acara. (Data contoh)", "photos": ["/images/gallery/wedding-1.webp"], "featured": true },
+  { "id": "p-02", "venue": "Pendopo Joglo Contoh", "city": "Sleman", "date": "2026-06-02", "eventType": "wedding", "description": "Pernikahan adat Jawa dengan nuansa campursari dan pop.", "photos": ["/images/gallery/party-1.webp"], "featured": false },
+  { "id": "p-03", "venue": "Gala Dinner PT Contoh Sejahtera", "city": "Yogyakarta", "date": "2026-05-20", "eventType": "event", "description": "Gala dinner tahunan perusahaan dengan jazz standar dan pop.", "photos": ["/images/gallery/event-1.webp"], "featured": true },
+  { "id": "p-04", "venue": "Kafe Senja Contoh", "city": "Yogyakarta", "date": "2026-04-12", "eventType": "reguler", "description": "Penampilan reguler akhir pekan dengan formasi akustik.", "photos": ["/images/gallery/cafe-1.webp"], "featured": true },
+  { "id": "p-05", "venue": "Taman Rumah Keluarga Contoh", "city": "Bantul", "date": "2026-03-08", "eventType": "birthday", "description": "Pesta ulang tahun ke-50 dengan lagu nostalgia.", "photos": ["/images/gallery/party-1.webp"], "featured": false },
+  { "id": "p-06", "venue": "Rooftop Contoh", "city": "Yogyakarta", "date": "2026-02-14", "eventType": "party", "description": "Valentine party dengan lagu-lagu romantis lintas era.", "photos": ["/images/gallery/stage-1.webp"], "featured": false },
+  { "id": "p-07", "venue": "Gedung Serbaguna Contoh", "city": "Magelang", "date": "2025-12-20", "eventType": "wedding", "description": "Resepsi pernikahan dengan prosesi masuk diiringi lagu persembahan.", "photos": ["/images/gallery/wedding-1.webp"], "featured": false },
+  { "id": "p-08", "venue": "Kampus Contoh", "city": "Sleman", "date": "2025-11-02", "eventType": "event", "description": "Malam keakraban mahasiswa dengan set pop dan rock.", "photos": ["/images/gallery/event-1.webp"], "featured": false }
+]

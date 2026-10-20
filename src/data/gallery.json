@@ -1,0 +1,10 @@
+[
+  { "id": "g-01", "src": "/images/gallery/wedding-1.webp", "alt": "Resepsi pernikahan dengan dekorasi bunga putih dan band di panggung", "category": "wedding", "width": 1376, "height": 768 },
+  { "id": "g-02", "src": "/images/gallery/event-1.webp", "alt": "Band tampil di gala dinner hotel dengan lampu maroon", "category": "event", "width": 768, "height": 1376 },
+  { "id": "g-03", "src": "/images/gallery/cafe-1.webp", "alt": "Penampilan akustik di kafe dengan lampu gantung", "category": "reguler", "width": 1376, "height": 768 },
+  { "id": "g-04", "src": "/images/gallery/party-1.webp", "alt": "Pesta ulang tahun di taman dengan lampion", "category": "party", "width": 768, "height": 1376 },
+  { "id": "g-05", "src": "/images/gallery/stage-1.webp", "alt": "Tangan memainkan keyboard di panggung", "category": "panggung", "width": 1024, "height": 1024 },
+  { "id": "g-06", "src": "/images/hero/about.webp", "alt": "Foto bersama enam personel Melodiva di belakang panggung", "category": "panggung", "width": 928, "height": 1152 },
+  { "id": "g-07", "src": "/images/members/diana/photo.webp", "alt": "Diana bernyanyi dengan mikrofon vintage", "category": "panggung", "width": 928, "height": 1152 },
+  { "id": "g-08", "src": "/images/hero/hero-poster.webp", "alt": "Melodiva tampil di resepsi malam hari", "category": "wedding", "width": 1376, "height": 768 }
+]
